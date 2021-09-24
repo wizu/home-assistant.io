@@ -133,4 +133,6 @@ monitored_conditions:
       description: Target heat temperature.
     FlowTemperature:
       description: Out temperature.
+    StorageDemand:
+      description: Is heating hot water storage.
 {% endconfiguration %}
